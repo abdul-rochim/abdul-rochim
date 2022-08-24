@@ -1,18 +1,15 @@
-### Hi there 👋
+### Hi there 👋, Abdul Rochim
+#### Civil Structural Engineer
+![Civil Structural Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**abdul-rochim/abdul-rochim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+hi, I'm Abdul Rochim from Indonesia. I am a Civil Engineer who is interested in making programs for solving structural engineering problems. I am interested in problems related to theoretical mechanics and finite element analysis.
 
-Here are some ideas to get you started:
+Skills: C++/ RUST/ PYTHON/ JULIA/ JS/ GO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Freelancer Engineer 
+- 🌱 I’m currently learning finite element modeling 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abdul-rochim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdul-rochim-b8157150/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_abdulrochim_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://abdul-rochim.github.io)  
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdul-rochim)](https://github.com/anuraghazra/github-readme-stats)
