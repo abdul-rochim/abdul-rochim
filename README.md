@@ -3,7 +3,7 @@
 
 ### Abdul Rochim
 
-hi, I'm Abdul Rochim from Indonesia :indonesia:. I am a Civil Engineer who is interested in making programs for solving structural engineering problems. I am interested in problems related to theoretical mechanics and finite element analysis.
+hi, I'm Abdul Rochim :indonesia:. I am a Civil Structural Engineer who is interested in making programs for solving structural engineering problems. I am interested in problems related to theoretical mechanics and finite element analysis.
 
 ## Skills and Experience
 * :construction_worker: Structural Analysis, Theory of Structures
